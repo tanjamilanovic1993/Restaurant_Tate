@@ -1,0 +1,125 @@
+s.row-header {
+  margin: 0px auto;
+  padding: 0px 0px; }
+
+.row-content {
+  margin: 0px auto;
+  padding: 50px 0px;
+  border-bottom: 1px ridge;
+  min-height: 400px; }
+
+.footer {
+  background-color: #8B6C5C;
+  margin: 0px auto;
+  padding: 20px 0px; }
+
+.jumbotron {
+  margin: 0px auto;
+  padding: 70px 30px;
+  background: #AC857D;
+  color: floralwhite; }
+
+address {
+  font-size: 80%;
+  margin: 0px;
+  }
+
+body {
+  padding: 50px 0px 0px 0px;
+  z-index: 0; }
+
+.navbar-inverse {
+  background-color: #8B6C5C; }
+
+.tab-content {
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+  padding: 10px; }
+
+.carousel {	
+  background: #AC857D; }
+  .carousel .carousel-item {
+    height: 300px;}
+     .carousel-caption{
+    	color: floralwhite;
+    }
+    .carousel .carousel-item img {
+      position: absolute;
+      top: 0;
+      left: 0;
+      min-height: 300px; }
+
+
+#carousel-button {
+  right: 0px;
+  background: #636C72;
+  color: floralwhite;
+  position: absolute;
+  bottom: 0px; }
+
+.carousel-indicators li {
+  border-radius: 30px 5px 30px 5px;
+  width: 5px;
+  height: 10px;
+  background-color: #636C72; }
+
+.modal-header {
+  background: #8B6C5C;
+  color: floralwhite; }
+  .modal-header .close {
+    color: floralwhite; }
+
+.modal-body {
+  background: floralwhite; }
+
+.modal-footer{
+	background: floralwhite; 
+} 
+
+.copyr{
+	margin-top: 15px;
+}
+
+.flinks{
+	color: floralwhite;}
+	.flinks a:link{color: floralwhite !important;}
+	.flinks a:hover{color: floralwhite !important;}
+
+@media (max-width: 575.98px){
+	#reserveButton{
+	margin-top: 25px;
+}
+}
+
+@media (max-width: 767.98px) {
+	.centriraj{
+		margin-left: 40px;
+	}
+}
+
+.floral{
+	margin-bottom: 200px;
+	color: floralwhite;
+}
+.card-header{
+	background: #ac857d;
+	background: -moz-linear-gradient(45deg, #ac857d 17%, #e8ada9 100%);
+	background: -webkit-linear-gradient(45deg, #ac857d 17%,#e8ada9 100%);
+	background: linear-gradient(45deg, #ac857d 17%,#e8ada9 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ac857d', endColorstr='#e8ada9',GradientType=1 );
+	color:#F7F7F7}
+	.card-header a:link{color: #F7F7F7 !important;}
+	.card-header a:hover{ color: #FBB040 !important;}
+
+.thead-moj{
+	background-color: #2D2D2D;
+	color: floralwhite;
+}
+
+#menu{
+	 border-color: #8B6C5C;
+	 background-color: #8B6C5C;
+}
+
+
